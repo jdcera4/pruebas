@@ -1,0 +1,4 @@
+#!/bin/bash
+var=ls -la
+echo $var
+imprimir0

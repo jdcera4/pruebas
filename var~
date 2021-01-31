@@ -1,0 +1,4 @@
+#!/bin/bash
+var = ls -la
+ecgo $var
+imprimir0
